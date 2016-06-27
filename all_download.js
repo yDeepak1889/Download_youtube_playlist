@@ -10,12 +10,13 @@ var me;
 var c = function () {
 		 if (i != b)
 			click[i].click();
+			
       setTimeout(m,3000);
      // console.log(i);
      if (i == b-1) {
-				clearInterval(me);
-			}
+		clearInterval(me);
+	}
      
-			i++;
+	i++;
 }
 me = setInterval(c,5000);
