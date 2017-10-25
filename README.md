@@ -1,4 +1,4 @@
-# Download_youtube_playlist
+# Download Youtube playlist
 
 ### How to Use
 
